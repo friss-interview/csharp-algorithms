@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Friss.Interviews.HistoryCacheApp", "Friss.Interviews.HistoryCacheApp\Friss.Interviews.HistoryCacheApp.csproj", "{BF26C449-1632-4B14-8A63-FDF98F5BE511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Friss.Interviews.HistoryCacheApp.Tests", "Friss.Interviews.HistoryCacheApp.Tests\Friss.Interviews.HistoryCacheApp.Tests.csproj", "{DDBC694D-CA87-4F4A-AB54-7328BD81EB42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF26C449-1632-4B14-8A63-FDF98F5BE511}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF26C449-1632-4B14-8A63-FDF98F5BE511}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF26C449-1632-4B14-8A63-FDF98F5BE511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF26C449-1632-4B14-8A63-FDF98F5BE511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDBC694D-CA87-4F4A-AB54-7328BD81EB42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDBC694D-CA87-4F4A-AB54-7328BD81EB42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDBC694D-CA87-4F4A-AB54-7328BD81EB42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDBC694D-CA87-4F4A-AB54-7328BD81EB42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
